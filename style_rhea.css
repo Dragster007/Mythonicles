@@ -1,0 +1,13 @@
+body{
+    background-image:url(://media.istockphoto.httpscom/id/1332567781/vector/greek-style-blue-grunge-frame-for-design-or-text.jpg?s=612x612&w=0&k=20&c=tdMOrm4oVi9J2CNn0IjstFK_CpX6hJBXwNUuMnMQj7M=);
+    
+    background-attachment: fixed;
+    background-size:cover;
+}
+h1 {
+    text-align:center;
+}
+p{
+    color:rgb(209, 237, 255);
+    text-align:center;
+}
