@@ -1,5 +1,5 @@
 body{
-    background-image:url(The_Fall_of_Phaeton.jpg) ;
+    background-image:url(cronos.jpg) ;
     background-position:center;
     background-attachment: fixed;
     background-size:cover;
@@ -11,7 +11,7 @@ p,ol,h1, h2, h3{
 
 
 h1{
-    color: goldenrod;
+    color: rgb(248, 154, 3);
 }
 h2{
     color:goldenrod
@@ -20,19 +20,11 @@ h3{
     color:gold;
 }
 p{
-    color:rgb(253, 66, 66);
+    background-color:rgba(17, 13, 1, 0.2);
+    color:rgba(255, 157, 0, 0.786);
     font-size: 20px;
     
 }
 ol {
     color:goldenrod
-}
-button{
-    color:goldenrod;
-    
-    font-size: 14px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color:rgba(255, 0, 0, 0.5);
-    border-radius: 8px;
-    
 }
