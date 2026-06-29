@@ -4,6 +4,12 @@ body{
     background-attachment: fixed;
     background-size:cover;
 }
+
+p,ol,h1, h2, h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
 h1{
     color: goldenrod;
 }
